@@ -45,7 +45,7 @@
             BtnSecuencial.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             BtnSecuencial.BackColor = SystemColors.ActiveCaption;
             BtnSecuencial.Font = new Font("Arial", 9.75F, FontStyle.Bold);
-            BtnSecuencial.Location = new Point(59, 51);
+            BtnSecuencial.Location = new Point(59, 28);
             BtnSecuencial.Name = "BtnSecuencial";
             BtnSecuencial.Size = new Size(137, 37);
             BtnSecuencial.TabIndex = 0;
@@ -58,7 +58,7 @@
             BtnIniciarHilos.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             BtnIniciarHilos.BackColor = Color.Gray;
             BtnIniciarHilos.Font = new Font("Arial", 9.75F, FontStyle.Bold);
-            BtnIniciarHilos.Location = new Point(59, 110);
+            BtnIniciarHilos.Location = new Point(59, 85);
             BtnIniciarHilos.Name = "BtnIniciarHilos";
             BtnIniciarHilos.Size = new Size(137, 34);
             BtnIniciarHilos.TabIndex = 1;
@@ -71,7 +71,7 @@
             BtnIniciarTarea.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
             BtnIniciarTarea.BackColor = Color.FromArgb(0, 192, 0);
             BtnIniciarTarea.Font = new Font("Arial", 9.75F, FontStyle.Bold);
-            BtnIniciarTarea.Location = new Point(59, 177);
+            BtnIniciarTarea.Location = new Point(59, 144);
             BtnIniciarTarea.Name = "BtnIniciarTarea";
             BtnIniciarTarea.Size = new Size(137, 34);
             BtnIniciarTarea.TabIndex = 2;
@@ -104,7 +104,7 @@
             BtnCancelarProceso.BackColor = Color.FromArgb(192, 0, 0);
             BtnCancelarProceso.Font = new Font("Arial", 9.75F, FontStyle.Bold);
             BtnCancelarProceso.ForeColor = Color.White;
-            BtnCancelarProceso.Location = new Point(59, 280);
+            BtnCancelarProceso.Location = new Point(59, 249);
             BtnCancelarProceso.Name = "BtnCancelarProceso";
             BtnCancelarProceso.Size = new Size(137, 37);
             BtnCancelarProceso.TabIndex = 3;
